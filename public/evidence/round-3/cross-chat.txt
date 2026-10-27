@@ -1,0 +1,13 @@
+BLACKTHORN INTERNAL MESSENGER — RECOVERED THREAD
+Participants: Adrian Cross (AC), Marcus Reed (MR)
+Date: 14 October
+
+22:58 AC: camera four is showing stale frames again.
+23:02 MR: M-14 is open. I was asked to restore the feed, not edit the archive.
+23:12 AC: someone used the outage to pull the old grant export.
+23:17 MR: My badge was on the maintenance console. Check who entered Lab 4.
+23:26 AC: the original audit has a writer field. The replacement export does not.
+
+Attachment reference: M-14 (see maintenance order in the access-control record).
+This thread alone does not establish who caused the fatal injury.
+This is a fictional CASE ZERO game artifact.

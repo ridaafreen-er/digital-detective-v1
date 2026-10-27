@@ -1,0 +1,7 @@
+record_id,posted_at,source_account,destination,amount_usd,authorization,review_note
+FIN-09,2024-10-14T22:42:00-04:00,BTI-GRANT-04,ENTITY-8841,184000,ADMIN-VH,Ownership requires registry cross-reference
+FIN-10,2024-10-14T22:44:00-04:00,BTI-GRANT-04,FIELDWORK NORTH,12000,PI-EC,Supporting invoice on file
+FIN-11,2024-10-14T22:46:00-04:00,BTI-GRANT-04,LAB SUPPLIES CO,8900,PI-EC,Delivery receipt on file
+FIN-12,2024-10-14T22:48:00-04:00,BTI-GRANT-04,ENTITY-8841,76000,ADMIN-VH,Second transfer; destination matches FIN-09
+
+FICTIONAL CASE ZERO LEDGER. Amounts and institutions are invented.

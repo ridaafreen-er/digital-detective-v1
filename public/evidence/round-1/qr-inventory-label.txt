@@ -1,0 +1,12 @@
+BLACKTHORN INSTITUTE — PROPERTY CONTROL
+Item: Lab 4 scene inventory label
+Record: ER-02
+QR payload transcription:
+
+CZ09|ER-02|EXPORT=23:16|SOURCE=LAB4-ARCHIVE-7C|COPY=SCENE
+
+The export receipt was created at 23:16 by the archive. The later incident
+report lists the inventory copy as created at 23:47. Preserve both timestamps;
+the QR label records the original export receipt.
+
+This document is a fictional CASE ZERO game artifact.

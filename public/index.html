@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#6D001A">
+    <meta name="description" content="CASE ZERO: THE BLACKTHORN FILES — a shared live forensic investigation.">
+    <title>CASE ZERO: THE BLACKTHORN FILES · HALLOWEEN EDITION</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/app.js?v=20261026-delete-archive" defer></script>
+  </head>
+  <body>
+    <div class="noise-layer" aria-hidden="true"></div>
+    <div class="ambient-glow" aria-hidden="true"></div>
+    <div class="halloween-drips" aria-hidden="true">
+      <span style="--drip-x: 3%; --drip-delay: -2s; --drip-duration: 17s; --drip-length: 24vh"></span>
+      <span style="--drip-x: 11%; --drip-delay: -8s; --drip-duration: 21s; --drip-length: 34vh"></span>
+      <span style="--drip-x: 19%; --drip-delay: -12s; --drip-duration: 19s; --drip-length: 18vh"></span>
+      <span style="--drip-x: 28%; --drip-delay: -5s; --drip-duration: 23s; --drip-length: 29vh"></span>
+      <span style="--drip-x: 38%; --drip-delay: -15s; --drip-duration: 20s; --drip-length: 22vh"></span>
+      <span style="--drip-x: 49%; --drip-delay: -9s; --drip-duration: 24s; --drip-length: 31vh"></span>
+      <span style="--drip-x: 60%; --drip-delay: -17s; --drip-duration: 18s; --drip-length: 20vh"></span>
+      <span style="--drip-x: 71%; --drip-delay: -4s; --drip-duration: 22s; --drip-length: 35vh"></span>
+      <span style="--drip-x: 82%; --drip-delay: -13s; --drip-duration: 19s; --drip-length: 25vh"></span>
+      <span style="--drip-x: 93%; --drip-delay: -7s; --drip-duration: 25s; --drip-length: 30vh"></span>
+    </div>
+    <div class="horror-skeletons" aria-hidden="true">
+      <span>💀</span><span>☠️</span><span>💀</span><span>☠️</span>
+      <span>💀</span><span>☠️</span><span>💀</span><span>☠️</span>
+    </div>
+    <div class="edition-stamp" aria-label="Halloween Edition">HALLOWEEN EDITION</div>
+
+    <div class="sound-dock" id="sound-dock" aria-label="Sound settings">
+      <button class="sound-toggle" id="sound-toggle" type="button" aria-pressed="false" aria-label="Turn sound on">
+        <span class="sound-mark" aria-hidden="true">◖</span>
+        <span id="sound-label">SOUND OFF</span>
+      </button>
+      <button class="sound-settings-trigger" id="sound-settings-trigger" type="button" aria-expanded="false" aria-controls="sound-settings">SETTINGS</button>
+      <section class="sound-settings" id="sound-settings" hidden aria-label="Audio preferences">
+        <label class="setting-row"><span>Master audio</span><input id="master-setting" type="checkbox"></label>
+        <label class="setting-row"><span>Ambience</span><input id="ambience-setting" type="checkbox"></label>
+        <label class="setting-row"><span>Interface sounds</span><input id="interface-setting" type="checkbox"></label>
+        <label class="volume-setting" for="volume-setting"><span>Volume</span><input id="volume-setting" type="range" min="0" max="0.35" step="0.01" value="0.14"></label>
+        <p class="audio-note">Continuous horror ambience and original effects · preferences stay on this device.</p>
+      </section>
+    </div>
+
+    <main id="app" class="app-shell" aria-live="polite">
+      <div class="loading-state"><span class="signal-dot"></span> ESTABLISHING SECURE UPLINK</div>
+    </main>
+
+    <section class="opening-screen" id="opening-screen" aria-labelledby="opening-title">
+      <div class="opening-vignette"></div>
+      <div class="opening-drips halloween-drips" aria-hidden="true">
+        <span style="--drip-x: 4%; --drip-delay: -3s; --drip-duration: 18s; --drip-length: 22vh"></span>
+        <span style="--drip-x: 14%; --drip-delay: -10s; --drip-duration: 22s; --drip-length: 32vh"></span>
+        <span style="--drip-x: 25%; --drip-delay: -15s; --drip-duration: 20s; --drip-length: 25vh"></span>
+        <span style="--drip-x: 37%; --drip-delay: -6s; --drip-duration: 24s; --drip-length: 18vh"></span>
+        <span style="--drip-x: 63%; --drip-delay: -13s; --drip-duration: 19s; --drip-length: 29vh"></span>
+        <span style="--drip-x: 75%; --drip-delay: -8s; --drip-duration: 23s; --drip-length: 23vh"></span>
+        <span style="--drip-x: 88%; --drip-delay: -18s; --drip-duration: 21s; --drip-length: 34vh"></span>
+        <span style="--drip-x: 97%; --drip-delay: -4s; --drip-duration: 25s; --drip-length: 20vh"></span>
+      </div>
+      <div class="opening-skeletons horror-skeletons" aria-hidden="true">
+        <span>💀</span><span>☠️</span><span>💀</span><span>☠️</span>
+        <span>💀</span><span>☠️</span>
+      </div>
+      <div class="opening-content">
+        <p class="opening-edition">HALLOWEEN EDITION</p>
+        <p class="eyebrow"><span class="signal-dot"></span> ARCHIVE ACCESS // CLASSIFIED</p>
+        <p class="opening-index">CASE FILE <span>00—00—09</span></p>
+        <h1 id="opening-title">CASE ZERO<span>THE BLACKTHORN FILES</span></h1>
+        <p class="opening-quote">“You have the wrong time.<br>You have the wrong sequence.<br>Reconstruct the night.”</p>
+        <div class="opening-actions">
+          <button class="button button-primary" id="enter-with-sound" type="button" data-sound="transition">
+            ENTER THE TRANSMISSION <span aria-hidden="true">→</span>
+          </button>
+          <button class="button button-quiet" id="enter-silent" type="button" data-sound="click">CONTINUE WITHOUT SOUND</button>
+        </div>
+        <p class="opening-footnote">Headphones recommended · sound can be changed at any time</p>
+      </div>
+      <div class="opening-bottom mono"><span>SECURE CONNECTION</span><span>THE ARCHIVE IS LISTENING</span><span>NO SIGNAL IS PRIVATE</span></div>
+    </section>
+
+    <dialog class="evidence-viewer" id="evidence-viewer" aria-labelledby="evidence-viewer-title">
+      <div class="evidence-viewer-header">
+        <h2 id="evidence-viewer-title">RECOVERED EVIDENCE</h2>
+        <button class="button button-small button-quiet" id="evidence-viewer-close" type="button">CLOSE</button>
+      </div>
+      <div class="evidence-viewer-content">
+        <img id="evidence-image-preview" alt="" hidden>
+        <pre id="evidence-text-preview" hidden></pre>
+      </div>
+    </dialog>
+
+    <div class="toast-region" id="toast-region" role="status" aria-live="polite"></div>
+  </body>
+</html>

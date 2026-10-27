@@ -1,0 +1,27 @@
+CASE ZERO — FINAL EVIDENCE INDEX
+Use at least three independent records. This index is a filing guide, not a
+conclusion. The records must be interpreted together; no line below names the
+person responsible.
+
+TIME
+PX-03: compare the photographed device time with the independent clock samples.
+SC-01: identify the dispatch/discovery event and distinguish it from the injury.
+AUD-ORIG: compare event order using the server time base.
+
+ACCESS AND COVER
+LOG-11: compare badge access with each interview statement and the timeline.
+CCTV-04: correlate the outage with M-14; outage alone is not identity.
+AUD-ORIG: identify the original writer and compare it with the replacement copy.
+
+MOTIVE AND RECORD INTEGRITY
+FIN-09: trace the destination through ENTITY-8841 in the registry file.
+MAIL-07 + CAL-04: decode the preserved subject and cross-check the calendar.
+AUDIT-INTEGRITY: explain what the hash and row-count differences establish.
+
+COMPETING THEORY
+Write a chain of reasoning that connects motive, access, action, and timing.
+Then choose one competing explanation and state which independent records
+support or contradict it. Distinguish direct observations from inferences.
+
+This is a fictional organizer-authored worksheet. It does not reveal the
+official solution.

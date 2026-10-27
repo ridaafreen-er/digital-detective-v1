@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">CASE ZERO scene photograph PX-03</title>
+  <desc id="desc">Fictional evidence photograph illustration of a stopped wristwatch in Lab 4, with a displayed time of 11:22 and a seven-minute-fast device clock note.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#21191a"/><stop offset="1" stop-color="#090708"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#d8c9bd" stop-opacity=".65"/><stop offset="1" stop-color="#7f6d66" stop-opacity="0"/></radialGradient>
+    <filter id="grain"><feTurbulence baseFrequency=".8" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .08 0"/></filter>
+  </defs>
+  <rect width="900" height="560" fill="url(#bg)"/>
+  <path d="M0 85h900M0 452h900M110 85v367M790 85v367" stroke="#73585a" stroke-opacity=".33" stroke-width="3"/>
+  <ellipse cx="460" cy="268" rx="310" ry="205" fill="url(#light)"/>
+  <path d="M370 0h160v164H370zM370 397h160v163H370z" fill="#0b0809" stroke="#5b4948" stroke-width="8"/>
+  <g transform="translate(450 277) rotate(-13)">
+    <rect x="-35" y="-194" width="70" height="135" rx="28" fill="#181314" stroke="#a18c83" stroke-width="7"/>
+    <rect x="-35" y="59" width="70" height="135" rx="28" fill="#181314" stroke="#a18c83" stroke-width="7"/>
+    <circle r="102" fill="#d4c8b8" stroke="#161213" stroke-width="15"/>
+    <circle r="80" fill="#242021" stroke="#8e7770" stroke-width="3"/>
+    <g stroke="#e5d9c8" stroke-width="4">
+      <path d="M0-72v12M0 60v12M-72 0h12M60 0h12M-51-51l9 9M42 42l9 9M51-51l-9 9M-42 42l-9 9"/>
+    </g>
+    <path d="M0 0v-51M0 0l-39 28" stroke="#f0e6d7" stroke-width="5" stroke-linecap="round"/>
+    <circle r="8" fill="#be2637"/>
+    <path d="M-18-87l20 27-9 42 31 37-20 35-31-33 16-32-22-34z" fill="none" stroke="#cfd8dc" stroke-opacity=".82" stroke-width="3"/>
+  </g>
+  <rect x="26" y="24" width="300" height="72" rx="4" fill="#080607" fill-opacity=".88" stroke="#aa2036"/>
+  <text x="44" y="53" fill="#ff5a69" font-family="monospace" font-size="18" letter-spacing="3">PX-03 // LAB 4</text>
+  <text x="44" y="78" fill="#eee2df" font-family="monospace" font-size="15">DISPLAYED 23:22 · STOPPED</text>
+  <rect x="28" y="485" width="844" height="48" fill="#080607" fill-opacity=".88"/>
+  <text x="46" y="516" fill="#f4dfe2" font-family="monospace" font-size="16">EVIDENCE PHOTO · WALL CLOCK CALIBRATION: +00:07:00 · FICTIONAL CASE RECORD</text>
+  <rect width="900" height="560" filter="url(#grain)" opacity=".35"/>
+</svg>

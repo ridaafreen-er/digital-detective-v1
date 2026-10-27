@@ -1,0 +1,7 @@
+node_modules/
+data.json
+data.json.tmp
+data-before-reset*.json
+.env
+.vercel
+npm-debug.log*

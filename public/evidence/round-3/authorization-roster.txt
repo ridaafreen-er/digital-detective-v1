@@ -1,0 +1,14 @@
+BLACKTHORN INSTITUTE // AUTHORIZATION ROSTER
+Record: HR-02
+Extract scope: grant administration and archive operations
+
+ADMIN-VH  | Victor Hale   | Institute Director
+PI-EC      | Elena Voss    | Principal Investigator
+ARCH-OPS   | Records Office | Archive custodians
+
+Credential note:
+V.HALE is the abbreviated credential assigned to Victor Hale. This roster
+identifies an account holder; account activity must still be corroborated
+with the immutable audit and access records.
+
+Fictional CASE ZERO game artifact. All people and records are invented.

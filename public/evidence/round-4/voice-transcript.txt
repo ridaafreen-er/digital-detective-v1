@@ -1,0 +1,13 @@
+BLACKTHORN SECURITY VOICEMAIL — TRANSCRIPTION
+Record: VM-114
+Received: 14 October, 23:49
+Caller: Night dispatcher, internal line 04
+Audio condition: clipped at start; no speaker identification beyond dispatch
+
+"...medical team is already at Lab Four. Mark the call at forty-seven, not
+when the camera first dropped. The time source on the wall is still seven
+minutes ahead. Keep the original audit read-only. Someone has replaced the
+working copy. I repeat: preserve the original."
+
+Analyst note: this is a dispatch instruction, not eyewitness identification.
+This transcript is a fictional CASE ZERO game artifact.

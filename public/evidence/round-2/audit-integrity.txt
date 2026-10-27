@@ -1,0 +1,16 @@
+BLACKTHORN DIGITAL FORENSICS — AUDIT COMPARISON
+Case: CZ-09
+Objects: AUDIT-ORIG and AUDIT-EXPORT
+
+AUDIT-ORIG
+SHA-256: 7c24d4bb1b2a9c80c4f0d1e8a771b062
+Last immutable event: 23:24:51 server time
+Writer credential: V.HALE
+
+AUDIT-EXPORT
+SHA-256: 9a01f77e4c0b3b8aa22d5f410d382c11
+Modified: 23:31:07 server time
+Differences: event 23:08 removed; export actor field rewritten; row count -1
+
+Conclusion: the export is not byte-identical to the immutable original.
+This is a fictional training exhibit; hashes are illustrative, not real files.

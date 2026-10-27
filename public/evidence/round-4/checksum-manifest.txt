@@ -1,0 +1,16 @@
+BLACKTHORN EVIDENCE ARCHIVE — CHECKSUM MANIFEST
+Case: CZ-09
+Manifest type: local training exhibit; checksums below are fictional labels.
+
+PX-03              IMAGE      VERIFIED       captured 23:22 terminal time
+SC-01              REPORT     VERIFIED       discovery 23:47 reference time
+ER-02              QR LABEL   VERIFIED       source export 23:16
+MAIL-07             EMAIL      PARTIAL         subject encoding preserved
+CAL-04              CALENDAR   VERIFIED       handwritten room reference
+AUDIT-ORIG          LOG        IMMUTABLE       writer V.HALE
+AUDIT-EXPORT        LOG        MODIFIED         row count differs from original
+FIN-09              LEDGER     VERIFIED       authorization ADMIN-VH
+M-14                WORK ORDER VERIFIED       maintenance; not murder proof
+
+No live credentials, real personal data, or external links are present in
+these fictional training artifacts.

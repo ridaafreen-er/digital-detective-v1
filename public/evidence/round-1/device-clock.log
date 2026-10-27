@@ -1,0 +1,15 @@
+BLACKTHORN TIME-SOURCE DIAGNOSTIC
+Device: LAB4-WALL-CLK
+Date: 14 October
+Reference: NTP-CORE-02
+
+21:00:00 REF  | 21:07:00 LAB4-WALL-CLK | sample=CAL-1
+21:30:00 REF  | 21:37:00 LAB4-WALL-CLK | sample=CAL-2
+22:00:00 REF  | 22:07:00 LAB4-WALL-CLK | sample=CAL-3
+
+All three samples show the same direction and size of drift. The calibration
+remained unchanged through the shift; no clock adjustment was logged before
+the incident. REF is the independent time source; LAB4-WALL-CLK is the device
+under examination. Correct PX-03 using this calibration, not by copying a
+time from this file.
+This diagnostic is a fictional CASE ZERO game artifact.

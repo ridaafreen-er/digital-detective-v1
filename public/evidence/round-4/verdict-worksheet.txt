@@ -1,0 +1,32 @@
+CASE ZERO // FINAL VERDICT WORKSHEET
+
+This is a reasoning aid, not a solution. Use your recovered records from all
+four rounds. There is no single file that proves the complete case.
+
+1. OPPORTUNITY
+Who could reach the relevant location during the independently established
+window? Compare the access log with statements and the original audit.
+
+2. ACTION
+What does the original event sequence establish directly? Separate the fatal
+event, the camera outage, the archive activity, and discovery.
+
+3. TIME
+Correct the photographed device clock using the calibration samples. Do not
+apply that correction to the server-reference timestamps.
+
+4. MOTIVE
+Trace the financial destination through its registry and governance records.
+Explain what this supports, and what it does not prove by itself.
+
+5. CORROBORATION
+Cite at least three independent record IDs. Label each statement as a direct
+observation or an inference from multiple records.
+
+6. ALTERNATIVE
+Choose one competing theory. Explain which records support it and which
+independent facts it fails to explain.
+
+Submit WHO, WHAT, WHEN, HOW, WHY, evidence IDs (including PX-03, FIN-09, and
+AUD-ORIG), and the rejected alternative.
+This is a fictional CASE ZERO game artifact.

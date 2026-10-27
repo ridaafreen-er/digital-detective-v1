@@ -1,0 +1,25 @@
+BLACKTHORN INSTITUTE — INTERVIEW EXTRACTS
+Case: CZ-09
+All statements are fictional and reconstructed for the investigation.
+
+INT-01 · ELENA VOSS · 00:22
+"Adrian and I argued about authorship. I was in the library after ten."
+Records to compare: library sign-in and the Lab 4 access-control extract.
+
+INT-02 · MARCUS REED · 00:41
+"I did not restart camera four. I filed the maintenance order, not a restart."
+Records to compare: M-14, CCTV-04, and the archive export history.
+
+INT-03 · SOPHIE CROSS · 01:05
+"I called Adrian because I wanted him to leave town. I was not at the institute."
+Record to compare: carrier location extract for the call.
+
+INT-04 · DANIEL HAYES · 01:27
+"I deleted a message about the sample batch. I was in Annex B all evening."
+Records to compare: Annex B bench ledger and instrument run.
+
+INT-05 · VICTOR HALE · 02:03
+"I never entered Lab 4 after the grant meeting. I did not touch the export."
+Records to compare: badge extract, immutable export writer, and FIN-09
+authorization. Treat a contradiction as evidence to investigate, not a
+standalone proof of the fatal act.

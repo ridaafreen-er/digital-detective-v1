@@ -1,0 +1,25 @@
+BLACKTHORN INSTITUTE — INCIDENT SCENE REPORT
+Case: CZ-09
+Record: SC-01
+Classification: INVESTIGATION COPY
+
+REPORTED DISCOVERY
+Date: 14 October
+Security dispatch received a call from Lab 4 at 23:47 institute time.
+Medical response was requested immediately. The report time records discovery,
+not the time the fatal injury occurred.
+
+SCENE NOTES
+Victim: Adrian Cross
+Location: Lab 4, east workbench
+The wristwatch was found stopped after impact. The cracked crystal and
+condensation boundary are documented in PX-03.
+The corridor clock was found running seven minutes fast against the dispatch
+time standard. Do not use its face as corrected time without calibration.
+
+CHAIN OF CUSTODY
+23:54 — Scene photographed by Officer S. Imani.
+00:12 — Watch and clock calibration notes sealed in envelope SC-01-A.
+00:28 — Copy transferred to the institute evidence archive.
+
+This document is a fictional CASE ZERO game artifact.

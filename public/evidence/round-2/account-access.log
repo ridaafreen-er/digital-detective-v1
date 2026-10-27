@@ -1,0 +1,15 @@
+BLACKTHORN INSTITUTE — ACCESS CONTROL EXTRACT
+System: BADGE-ARCHIVE-02
+Date: 14 October
+Time base: institute terminal clock (known offset: +00:07:00)
+
+23:08:14  AUTH OK   credential=V.HALE      door=LAB4-EAST
+23:10:02  CAMERA    device=CCTV-04         state=SIGNAL_LOST
+23:11:33  AUTH OK   credential=M.REED      console=MAINT-04
+23:19:08  AUTH OK   credential=V.HALE      door=ARCHIVE-7C
+23:24:51  EXPORT    user=V.HALE            object=AUDIT-ORIG
+23:29:17  TICKET    user=M.REED            ticket=M-14 state=UPLOADED
+
+Terminal timestamps above are not corrected reference times. Correlate the
+seven-minute offset with independent server logs before building a timeline.
+This document is a fictional CASE ZERO game artifact.

@@ -1,0 +1,24 @@
+{
+  "name": "case-zero-last-transmission",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A self-hosted supernatural investigation experience with server-enforced competition rules.",
+  "scripts": {
+    "start": "node --env-file=.env server.js",
+    "dev": "node --watch server.js",
+    "check-db": "node --env-file=.env check-db.js",
+    "check": "node --check server.js && node --check api/index.js && node --check public/app.js && node --check tools/generate-qr.js && node --check reset-judge.js && node --check check-db.js",
+    "generate:evidence-qr": "node tools/generate-qr.js",
+    "reset-judge": "node reset-judge.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "qrcode": "^1.5.4"
+  },
+  "dependencies": {
+    "mongodb": "^6.20.0"
+  }
+}

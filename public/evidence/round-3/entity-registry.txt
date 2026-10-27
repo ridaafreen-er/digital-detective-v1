@@ -1,0 +1,19 @@
+BLACKTHORN PROCUREMENT REGISTRY
+Record: REG-8841
+Snapshot date: 14 October
+
+ENTITY-8841
+Registered name: North Quay Consulting
+Beneficial owner: BLACKTHORN ADMINISTRATOR / ADMIN-VH
+Approval trail: see the team-only authorization roster.
+
+ENTITY-7710
+Registered name: Fieldwork North
+Beneficial owner: Field Operations Committee / PI-EC
+
+Registry note:
+ADMIN-VH and PI-EC are internal authorization identifiers. Match them to the
+team-only authorization roster; do not infer an individual's identity from
+this extract alone.
+
+Fictional CASE ZERO game artifact. All entities and records are invented.

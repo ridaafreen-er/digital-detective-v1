@@ -1,0 +1,18 @@
+BLACKTHORN IMMUTABLE AUDIT — RECOVERED FRAGMENT
+Object: AUD-ORIG
+Reference time: institute server clock
+Integrity: partial; event ordering preserved
+
+23:08:14 AUTH_OK      V.HALE   DOOR=LAB4-EAST
+23:10:02 VIDEO_LOSS   CCTV-04 CHANNEL=LAB4
+23:15:40 SENSOR       LAB4-BENCH impact_detected=true
+23:19:08 AUTH_OK      V.HALE   DOOR=ARCHIVE-7C
+23:24:51 EXPORT_WRITE V.HALE   TARGET=AUDIT-ORIG
+23:31:07 EXPORT_EDIT  V.HALE   TARGET=AUDIT-EXPORT
+23:47:12 DISPATCH     LAB4     MEDICAL_REQUEST=true
+
+Clock reconciliation:
+The lab terminal was seven minutes fast. The immutable audit is already on
+server reference time; do not subtract seven minutes from server timestamps.
+PX-03 is the terminal-clock photograph and must be corrected by seven minutes.
+This is a fictional CASE ZERO game artifact.
